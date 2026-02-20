@@ -1,0 +1,108 @@
+Rank,Name,Revenue (USD million),Fiscal Year,Employees,Market Cap,Headquarters,Industry
+1,Amazon,$620.12,2021,"1,608,000","$2,490",Seattle,Ecommerce
+2,Alphabet,$339.85,2021,"156,500","$2,270",Mountain View,Internet
+3,JD.com,$260.4,2021,"385,357",$390.35,Beijing,Ecommerce
+4,Meta,$156.22,2021,"71,970","$1,803",Menlo Park,Social Media
+5,Alibaba,$109.48,2021,"251,462",$330.67,Hangzhou,Ecommerce
+6,Tencent,$87.85,2021,"112,771",$562.84,Shenzhen,Internet
+7,ByteDance,$58,2021,"110,000",$353,Beijing,Social Media
+8,Netflix,$39,2021,"12,135",$434.46,Los Gatos,Entertainment
+9,Meituan,$27.77,2021,"100,033",$177.34,Beijing,Ecommerce
+10,PayPal,$25.37,2021,"30,900",$220.26,San Jose,Financial Services
+11,Wildberries,$22.26,2022,"154,000",$14.52,Moscow,Ecommerce
+12,Salesforce.com,$21.25,2021,"49,000",$212.34,San Francisco,Software
+13,Suning.com,$21.09,2021,"69,398",$13.47,Nanjing,Ecommerce
+14,Ozon,$20.068,2023,"40,000",$7.8,Moscow,Ecommerce
+15,Baidu,$19.54,2021,"45,500",$51.77,Beijing,Internet
+16,Otto Group,$18.27,2020,"49,895",-,Hamburg,Ecommerce
+17,Block,$17.66,2021,"8,521",$74.50,San Francisco,Financial Services
+18,Uber,$17.46,2021,"29,300",$81.34,San Francisco,Transportation
+19,Adobe,$15.78,2021,"25,988",$269.35,San Jose,Software
+20,Shein,$15.70,2021,"10,000",$47,Nanjing,Ecommerce
+21,Rakuten,$15.30,2021,"23,841",$15.12,Tokyo,Ecommerce
+22,NetEase,$13.75,2021,"32,064",$67.76,Hangzhou,Internet
+23,Wayfair,$13.71,2021,"16,681",$19.86,Boston,Ecommerce
+24,Kwai,$12.75,2021,"28,098",$38.74,Beijing,Social Media
+25,Spotify,$11.44,2021,"8,230",$44.82,Stockholm,Audio Streaming
+26,eBay,$10.42,2021,"10,800",$41.62,San Jose,Ecommerce
+27,Bloomberg L.P.,$10,2019,"20,000",-,New York City,Financial Services
+28,Zalando,$7.98,2020,"14,194",$27.37,Berlin,Ecommerce
+29,Yahoo,$7.4,2020,"10,030",-,Sunnyvale,Search engine
+30,Chewy,$7.15,2020,"18,500",$33.05,Dania Beach,Ecommerce
+31,Yandex,$6.96,2022,"11,864",$21.65,Moscow,Internet
+32,Booking,$6.79,2020,"20,300",$96.35,Norwalk,Travel
+33,Coupang,$6.23,2019,"10,000",-,SeoulDelaware[54],Ecommerce
+34,Naver,$5.7,2019,"15,148",$51.23,Seongnam,Internet
+35,Carvana,$5.59,2020,"10,400",$45.65,Tempe,Ecommerce
+36,Epic Games,$5.4,2019,"1,000",-,Cary,Video Games
+37,Expedia,$5.2,2020,"19,100",$25.26,Bellevue,Travel
+38,ServiceNow,$4.52,2020,"13,096",$107.55,Santa Clara,Software
+39,ASOS.com,$4.52,2020,"3,824",$7.1,London,Ecommerce
+40,Sea Limited,$4.38,2020,"33,800",$128.07,Singapore,Ecommerce
+41,Pinduoduo,$4.33,2019,"5,828",$167.04,Shanghai,Ecommerce
+42,Workday,$4.32,2020,"12,500",$61.44,Pleasanton,Software
+43,Bet365,$3.89,2019,"4,708",-,Stoke-on-Trent,Online Gambling
+44,Twitter,$3.72,2020,"5,500",$51.36,San Francisco,Social Media
+45,"Compass, Inc.",$3.72,2020,"18,000",-,New York,Real estate broker
+46,Kakao,$3.71,2020,"8,602 (2019)",$46.02,Jeju City,Internet
+47,Stripe,$3.45,2018,"2,500",-,San Francisco  Dublin[78],Financial Services
+48,Airbnb,$3.38,2020,"5,597",$103.86,San Francisco,Lodging
+49,Zillow,$3.34,2020,"5,249",$9.59,Seattle,Real Estate
+50,GoDaddy,$3.32,2020,"6,621",$14.35,Scottsdale,Web Hosting
+51,Akamai Technologies,$3.2,2020,"8,368",$17.36,"Cambridge, Massachusetts",Cybersecurity
+52,wework,$3.2,2020,"6,000",,New York City,Real estate technology
+53,Infor,$3.2,2020,"18,000",-,New York,Software as service
+54,Shopify,$2.93,2020,"7,000",$133.22,Ottawa,Ecommerce
+55,DoorDash,$2.89,2020,"3,886",$46.27,San Francisco,Delivery
+56,Trip.com,$2.81,2020,"33,400",$23.03,Shanghai,Travel
+57,Rackspace,$2.71,2020,"7,200",$20.00,"San Antonio, Texas",Information Technology
+58,EPAM Systems,$2.66,2019,"36,50",$31.10,"Newtown, Pennsylvania",Information Technology
+59,Zoom Video,$2.65,2020,"4,422",$96.43,"San Jose, California",Internet Telecommunication
+60,Opendoor,$2.58,2020,"1,048",$10.78,San Francisco,Internet Real Estate
+61,Beyond,$2.55,2020,"1,750",$2.89,Midvale,Ecommerce
+62,Travelport,$2.55,2018,"3,700",-,"Cumberland, Georgia",Travel
+63,Wish,$2.54,2020,875,$8.09,San Francisco,Ecommerce
+64,The Stars Group,$2.53,2019,"4,591",$7.49,Toronto,Online Gambling
+65,Snap,$2.51,2020,"3,863",$86.04,Santa Monica,Social Media
+66,Coolblue,$2.4,2020,"6,361",-,Rotterdam,Ecommerce
+67,Match Group,$2.39,2020,"1,900",$38.59,Dallas,Online Dating
+68,Lyft,$2.36,2020,"4,675",$20.06,San Francisco,Transportation
+69,Fanatics,$2.3,2018,"1,800",-,Jacksonville,Ecommerce
+70,58.com,$2.23,2019,"21,743",$9.69,Beijing,Online Directory
+71,Copart,$2.21,2020,"7,600",$29.04,Dallas,Automotive
+72,CDK Global,$2.19,2020,"9,000",$5.3,Illinois,Automotive Ecommerce
+73,Sina Corp,$2.16,2019,"8,300",$2.58,Beijing,Internet
+74,Newegg,$2.08,2019,"3,700",-,City of Industry,Ecommerce
+75,Instacart,$2.0,2017,"5,755",-,San Francisco,Hyperlocal Delivery
+76,Shutterfly,$2.0,2018,"7,500",-,"Redwood City, California",Photography
+77,BMC Software,$2.0,2019,"6,000",-,"Houston, Texas",software as service
+78,Zynga,$1.97,2020,"2,245",$11.53,San Francisco,Video Games
+79,Roblox Corporation,$1.91,2021,"1,600",$16.17,San Mateo,Online gaming
+80,Dropbox,$1.91,2020,"2,760",$10.47,San Francisco,Cloud Storage
+81,B2W,$1.86,2020,"9,050 (2019)",$6.90,Rio de Janeiro,Ecommerce
+82,Grubhub,$1.82,2020,"2,841",$6.62,Chicago,Online Food Ordering
+83,Twilio,$1.76,2020,"4,629",$63.71,San Francisco,Telecommunication
+84,Stitch Fix,$1.71,2020,"8,000",$4.66,San Francisco,Personalized Services
+85,Etsy,$1.7,2020,"1,414",$25.3,New York,Ecommerce
+86,Pinterest,$1.69,2020,"2,545",$45.73,San Francisco,Social Media
+87,Farfetch,$1.67,2020,"5,441",$16.96,London  Lisbon,Ecommerce
+88,Klarna,$1.60,2021,"4,789",$45.6,Stockholm,Financial Services
+89,Carsome,$1.50,2022,"4,000 (2022)",$2.00,"Kuala Lumpur,",Internet
+90,J2 Global,$1.49,2020,"2,400 (2019)",$5.43,"Los Angeles,",Internet
+91,ANGI Homeservices Inc.,$1.47,2020,"5,100",$7.92,Denver,Internet
+92,DocuSign,$1.45,2021,"5,630",$41.13,San Francisco,Software
+93,Groupon,$1.42,2020,"4,159",$1.30,Chicago,Ecommerce
+94,Vroom.com,$1.36,2020,944,$5.89,New York City,Ecommerce
+95,VK (formerly Mail.ru),$1.33,2020,"6,334 (2019)",$5.17,Moscow,Internet
+96,Sabre Corporation,$1.33,2020,"7,531",$4.88,Southlake,Travel
+97,"Kaplan, Inc.",$1.31,2020,"5,500",-,"Fort Lauderdale, Florida",Education
+98,Endurance International Group,$1.3,2019,"2,500",$4.00,"Burlington, Massachusetts",Internet
+99,GoTo,$1.3,2022,"5,000",$32.00,Jakarta,"Transportation, Ecommerce"
+100,Exela Technologies,$1.29,2020,"22,000",$1.2,"Irving, Texas",Automation
+101,Verisign,$1.27,2020,909,$23.94,Reston,Internet
+102,Flexport,$1.27,2020,"2,000",,San Francisco,Software freight forwarding
+103,LogMeIn,$1.26,2019,"3,974",$4.21,Boston,Software
+104,Unity Technologies,$1.2,2021,"5,500",$12.73,San Francisco,Software gaming
+105,Blue Yonder,$1.1,2021,"5,500",-,"Scottsdale, Arizona",Software
+106,Craigslist,$1.0,2018,"1,000",-,San Francisco,Classifieds
+107,Grab,$1.0,2018,"6,000",-,Singapore,Transportation
